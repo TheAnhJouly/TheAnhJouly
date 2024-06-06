@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theanhjouly&show_icons=true&locale=en&layout=compact" alt="theanhjouly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theanhjouly&show_icons=true&locale=en" alt="theanhjouly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theanhjouly&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="theanhjouly" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theanhjouly&" alt="theanhjouly" /></p>
